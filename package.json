@@ -4,9 +4,7 @@
   "description": "Gain the skills and confidence you need to become a developer...right in VSCode!",
   "version": "0.0.1",
   "keywords": [
-    "vscode",
     "RallyCoding",
-    "extension",
     "programming",
     "exercises",
     "learning",
